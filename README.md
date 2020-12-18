@@ -4,8 +4,8 @@ Download this extension from the [Visual Studio Code Marketplace](https://market
 
 ## Acknowledgements
 
-JS Icon sourced from [](https://github.com/voodootikigod/logo.js)
-JS Snippets sourced from [](https://github.com/xabikos/vscode-javascript) and [](https://github.com/akamud/vscode-javascript-snippet-pack/)
+JS Icon sourced from [github.com/voodootikigod/logo.js](https://github.com/voodootikigod/logo.js)
+JS Snippets sourced from [github.com/xabikos/vscode-javascript](https://github.com/xabikos/vscode-javascript) and [github.com/akamud/vscode-javascript-snippet-pack](https://github.com/akamud/vscode-javascript-snippet-pack/)
 
 ## Usage
 
