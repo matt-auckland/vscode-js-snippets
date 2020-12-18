@@ -1,0 +1,47 @@
+{
+    "name": "vscode-javascript-snippets",
+    "publisher": "matt-auckland",
+    "displayName": "JavaScript Snippet Pack ",
+    "description": "A snippet pack to make you more productive working with JavaScript",
+    "icon": "art/js-icon.png",
+    "galleryBanner": {
+        "color": "#F0DB4F",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/matt-auckland/vscode-js-snippets/issues"
+    },
+    "homepage": "https://github.com/matt-auckland/vscode-js-snippets/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matt-auckland/vscode-js-snippets/blob/master/README.md"
+    },
+    "version": "0.0.1",
+    "engines": { "vscode": "^0.11.x" },
+    "categories": ["Snippets"],
+    "keywords": [
+        "Javascript",
+        "Typescript"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/javascript.json"
+            }
+        ]
+    }
+}
