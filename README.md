@@ -9,10 +9,7 @@ JS Snippets sourced from [github.com/xabikos/vscode-javascript](https://github.c
 
 ## Usage
 
----
-
 A snippet pack to make you more productive working with JavaScript.
-Based on [Visual Studio extension](https://github.com/madskristensen/JavaScriptSnippetPack) by [Mads Kristensen](https://github.com/madskristensen), which is based on [Atom snippets](https://atom.io/packages/javascript-snippets).
 
 This extension ships a bunch of useful code snippets for the JavaScript and TypeScript editors.
 
